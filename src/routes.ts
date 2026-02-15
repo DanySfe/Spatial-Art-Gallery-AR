@@ -1,4 +1,4 @@
-import { createBrowserRouter } from "react-router";
+import { createBrowserRouter } from "react-router-dom";
 import Root from "./components/Root";
 import BrandingSystem from "./components/pages/BrandingSystem";
 import UIComponentLibrary from "./components/pages/UIComponentLibrary";

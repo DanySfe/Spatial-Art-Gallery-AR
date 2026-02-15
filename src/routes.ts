@@ -18,4 +18,4 @@ export const router = createBrowserRouter([
       { path: "pipeline", Component: AssetPipeline },
     ],
   },
-]);
+], { basename: import.meta.env.BASE_URL });
